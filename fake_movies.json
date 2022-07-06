@@ -1,0 +1,71 @@
+{
+  "movies": [
+    {
+      "Title": "Titanic",
+      "imdbID": "tt0120338",
+      "genreId": "1"
+    },
+    {
+      "Title": "The Notebook",
+      "imdbID": "tt0332280",
+      "genreId": "1"
+    },
+    {
+      "Title": "Inception",
+      "imdbID": "tt1375666",
+      "genreId": "2"
+    },
+    {
+      "Title": "Tenet",
+      "imdbID": "tt6723592",
+      "genreId": "2"
+    },
+    {
+      "Title": "Avatar",
+      "imdbID": "tt0499549",
+      "genreId": "3"
+    },
+    {
+      "Title": "The Matrix",
+      "imdbID": "tt0133093",
+      "genreId": "3"
+    },
+    {
+      "Title": "The Conjuring",
+      "imdbID": "tt1457767",
+      "genreId": "2"
+    },
+    {
+      "Title": "Annabelle",
+      "imdbID": "tt3322940",
+      "genreId": "2"
+    },
+    {
+      "Title": "The Prestige",
+      "imdbID": "tt0482571",
+      "genreId": "2"
+    },
+    {
+      "Title": "Sherlock Holmes",
+      "imdbID": "tt0988045",
+      "genreId": "2"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Romance",
+      "upVotes": 100
+    },
+    {
+      "id": 2,
+      "name": "Thriller",
+      "upVotes": 500
+    },
+    {
+      "id": 3,
+      "name": "SciFi",
+      "upVotes": 300
+    }
+  ]
+}
